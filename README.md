@@ -21,3 +21,5 @@ THEN I find that they fall in sequential order
 WHEN I view the title element
 
 THEN I find a concise, descriptive title
+
+[screencapture-justinmci-github-io-Code-Refactor-2021-12-29-15_04_13.pdf](https://github.com/Justinmci/Code-Refactor/files/7790620/screencapture-justinmci-github-io-Code-Refactor-2021-12-29-15_04_13.pdf)
